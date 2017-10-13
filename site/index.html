@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Infraero</title>
+	<link href="assets/css/cias_aereas.css" rel="stylesheet" type="text/css">
+	<link href="assets/css/main.css" rel="stylesheet" type="text/css">
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="http://ricostacruz.com/jquery.transit/jquery.transit.min.js"></script>
+	<script src="assets/js/main.js"></script>
+</head>
+<body>
+
+<div id="loader" style="display:none">
+</div>
+
+
+
+<div id="header">
+	<p class="infraero_logo">Infraero</p>
+	<p class="way">&nbsp;</p>
+	
+	<div id="form">
+		<label>Aeroporto: 
+			<select id="aeroporto">
+				<option value="SBHT">Altamira</option>
+				<option value="SBAR">Aracaju</option>
+				<option value="SBBE">Belém</option>
+				<option value="SBBH">Belo Horizonte</option>
+				<option value="SBCF">Belo Horizonte</option>
+				<option value="SBBV">Boa Vista</option>
+				<option value="SBBR">Brasília</option>
+				<option value="SBKG">Campina Grande</option>
+				<option value="SBKP">Campinas</option>
+				<option value="SBCG">Campo Grande</option>
+				<option value="SBCP">Rio De Janeiro</option>
+				<option value="SBCJ">Parauapebas</option>
+				<option value="SBCR">Corumbá</option>
+				<option value="SBCM">Criciúma</option>
+				<option value="SBCZ">Cruzeiro Do Sul</option>
+				<option value="SBCY">Cuiabá</option>
+				<option value="SBCT">Curitiba</option>
+				<option value="SBFL">Florianópolis</option>
+				<option value="SBFZ">Fortaleza</option>
+				<option value="SBFI">Foz Do Iguaçu</option>
+				<option value="SBGO">Goiânia</option>
+				<option value="SBIL">Ilhéus</option>
+				<option value="SBIZ">Imperatriz</option>
+				<option value="SBJP">João Pessoa</option>
+				<option value="SBJV">Joinville</option>
+				<option value="SBJU">Juazeiro Do Norte</option>
+				<option value="SBLO">Londrina</option>
+				<option value="SBME">Macaé</option>
+				<option value="SBMQ">Macapá</option>
+				<option value="SBMO">Maceió</option>
+				<option value="SBEG">Manaus</option>
+				<option value="SBMA">Marabá</option>
+				<option value="SBMK">Montes Claros</option>
+				<option value="SBNT">Natal</option>
+				<option value="SBNF">Navegantes</option>
+				<option value="SBPJ">Palmas</option>
+				<option value="SBPK">Pelotas</option>
+				<option value="SBPL">Petrolina</option>
+				<option value="SBPA">Porto Alegre</option>
+				<option value="SBPV">Porto Velho</option>
+				<option value="SBRF">Recife</option>
+				<option value="SBRB">Rio Branco</option>
+				<option value="SBGL">Rio Jan - Galeao</option>
+				<option value="SBRJ">Rio Jan - S.Dumont</option>
+				<option value="SBSV">Salvador</option>
+				<option value="SBSN">Santarém</option>
+				<option value="SBSJ">São Jose Dos Campos</option>
+				<option value="SBSL">São Luis</option>
+				<option value="SBSP" selected="selected">S. Paulo - Congonhas</option>
+				<option value="SBGR">S. Paulo - Guarulhos</option>
+				<option value="SBTE">Teresina</option>
+				<option value="SBUR">Uberaba</option>
+				<option value="SBUL">Uberlândia</option>
+				<option value="SBUG">Uruguaiana</option>
+				<option value="SBVT">Vitória</option>
+			</select>
+		</label>
+		<br>
+		<label>Sentido: 
+			<select id="sentido">
+				<option value="departures" selected="selected">Partidas</option>
+				<option value="arrivals">Chegadas</option>
+			</select>
+		</label>
+		<br>
+		<label>Exibir: 
+			<input size="4" type="text" id="num_voos" value="10" />
+		</label>
+		<input type="button" onclick="load_data()" value="Carregar" />
+	</div>
+	
+	<div class="clock">
+		<p class="time">00:00</p>
+		<p class="page">Página 01</p>
+	</div>
+</div>
+
+<table id="flight_table" cellpadding="0" cellspacing="0">
+	<thead>
+		<tr>
+			<th>Cia</th>
+			<th>Vôo</th>
+			<th>Prev</th>
+			<th>Conf</th>
+			<th>Destino/Escalas</th>
+			<th>Portão</th>
+			<th>TPS</th>
+			<th>Observação</th>
+		</tr>
+	</thead>
+	<tbody>
+	</tbody>
+</table>
+
+<div id="footer">
+	Desenvolvido por DigitallyMade &copy; 2014 - Todos os direitos reservados. Fonte: Infraero - Sujeito a disponibilidade do serviço.
+</div>
+
+</body>
+</html>

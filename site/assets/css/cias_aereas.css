@@ -1,0 +1,1337 @@
+#glb-doc {
+    text-align: center;
+    width: 100%}
+.glb-conteudo {
+    margin: 0 auto!important;
+    width: 960px;
+    text-align: left;
+}
+.glb-bloco {
+    display: table;
+    width: 100%}
+.glb-grid-1, .glb-grid-2, .glb-grid-3, .glb-grid-4, .glb-grid-5, .glb-grid-6, .glb-grid-7, .glb-grid-8, .glb-grid-9, .glb-grid-10, .glb-grid-11, .glb-grid-12 {
+    display: inline;
+    float: left;
+    margin: 0 10px;
+}
+.glb-grid-1 {
+    width: 60px;
+}
+.glb-grid-2 {
+    width: 140px;
+}
+.glb-grid-3 {
+    width: 220px;
+}
+.glb-grid-4 {
+    width: 300px;
+}
+.glb-grid-5 {
+    width: 380px;
+}
+.glb-grid-6 {
+    width: 460px;
+}
+.glb-grid-7 {
+    width: 540px;
+}
+.glb-grid-8 {
+    width: 620px;
+}
+.glb-grid-9 {
+    width: 700px;
+}
+.glb-grid-10 {
+    width: 780px;
+}
+.glb-grid-11 {
+    width: 860px;
+}
+.glb-grid-12 {
+    width: 940px;
+}
+.glb-primeiro {
+    margin-left: 0;
+}
+.glb-ultimo {
+    margin-right: 0;
+}
+.sprite-no-repeat, #titulo-aeroporto .icone {
+    background-repeat: no-repeat;
+    background-image: url(../img/../img/sprite-no-repeat-optimized.png)!important;
+}
+.sprite-repeat-x {
+    background-repeat: repeat-x;
+    background-image: url(../img/sprite-repeat-x-optimized.png)!important;
+}
+.wf-proximanovasemibold-n4-active #titulo-aeroporto {
+    font-family: ProximaNova-SemiBold;
+}
+#titulo-aeroporto {
+    height: 65px;
+    position: relative;
+}
+#titulo-aeroporto .placa-aeroporto {
+    margin-top: 5px;
+}
+#titulo-aeroporto .nome-popular {
+    color: #333;
+    cursor: default;
+    font-size: 50px;
+    letter-spacing: -3px;
+    line-height: 50px;
+    margin: 0 17px 0 8px;
+    text-transform: uppercase;
+}
+#titulo-aeroporto .nome-popular-grande {
+    font-size: 36px;
+    letter-spacing: -2px;
+}
+#titulo-aeroporto .clima {
+    border-left: 1px dotted #CCC;
+    cursor: default;
+    display: none;
+    margin-top: 7px;
+    position: relative;
+    vertical-align: top;
+}
+#titulo-aeroporto .icone {
+    left: 16px;
+    position: absolute;
+    height: 44px;
+    top: -7px;
+    width: 49px;
+    background-position: 49px 44px;
+}
+#titulo-aeroporto .icone.icone-1 {
+    background-position: 0 -58px;
+}
+#titulo-aeroporto .icone.icone-2 {
+    background-position: -49px -58px;
+}
+#titulo-aeroporto .icone.icone-2r {
+    background-position: -98px -58px;
+}
+#titulo-aeroporto .icone.icone-2n {
+    background-position: -147px -58px;
+}
+#titulo-aeroporto .icone.icone-2rn {
+    background-position: -196px -58px;
+}
+#titulo-aeroporto .icone.icone-3, #titulo-aeroporto .icone.icone-3n {
+    background-position: -245px -58px;
+}
+#titulo-aeroporto .icone.icone-4 {
+    background-position: -294px -58px;
+}
+#titulo-aeroporto .icone.icone-4r {
+    background-position: -343px -58px;
+}
+#titulo-aeroporto .icone.icone-4n {
+    background-position: -392px -58px;
+}
+#titulo-aeroporto .icone.icone-4rn {
+    background-position: -441px -58px;
+}
+#titulo-aeroporto .icone.icone-5, #titulo-aeroporto .icone.icone-5n {
+    background-position: -490px -58px;
+}
+#titulo-aeroporto .icone.icone-6, #titulo-aeroporto .icone.icone-6n {
+    background-position: -539px -58px;
+}
+#titulo-aeroporto .icone.icone-7, #titulo-aeroporto .icone.icone-7n {
+    background-position: -588px -58px;
+}
+#titulo-aeroporto .icone.icone-8 {
+    background-position: -637px -58px;
+}
+#titulo-aeroporto .icone.icone-9 {
+    background-position: -686px -58px;
+}
+#titulo-aeroporto .clima-atual {
+    color: #707070;
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 75px;
+    text-transform: uppercase;
+    vertical-align: top;
+}
+#titulo-aeroporto .temperatura-atual {
+    font-family: ProximaNova-Thin;
+    color: #BD0101;
+    display: block;
+    font-size: 34px;
+    margin-left: 75px;
+    text-align: center;
+}
+#titulo-aeroporto .nome-completo {
+    font-family: ProximaNova-Regular;
+    color: #999;
+    display: block;
+    text-transform: uppercase;
+}
+#tiptip_holder {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+}
+#tiptip_holder.tip_top {
+    padding-bottom: 5px;
+}
+#tiptip_holder.tip_bottom {
+    padding-top: 5px;
+}
+#tiptip_holder.tip_right {
+    padding-left: 5px;
+}
+#tiptip_holder.tip_left {
+    padding-right: 5px;
+}
+#tiptip_content {
+    font-size: 11px;
+    color: #fff;
+    text-shadow: 0 0 2px #000;
+    padding: 4px 8px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background-color: #191919;
+    background-color: rgba(25, 25, 25, 0.92);
+    background-image: -webkit-gradient(linear, 0% 0, 0% 100%, from(transparent), to(#000));
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    box-shadow: 0 0 3px #555;
+    -webkit-box-shadow: 0 0 3px #555;
+    -moz-box-shadow: 0 0 3px #555;
+}
+#tiptip_arrow, #tiptip_arrow_inner {
+    position: absolute;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 6px;
+    height: 0;
+    width: 0;
+}
+#tiptip_holder.tip_top #tiptip_arrow {
+    border-top-color: #fff;
+    border-top-color: rgba(255, 255, 255, 0.35);
+}
+#tiptip_holder.tip_bottom #tiptip_arrow {
+    border-bottom-color: #fff;
+    border-bottom-color: rgba(255, 255, 255, 0.35);
+}
+#tiptip_holder.tip_right #tiptip_arrow {
+    border-right-color: #fff;
+    border-right-color: rgba(255, 255, 255, 0.35);
+}
+#tiptip_holder.tip_left #tiptip_arrow {
+    border-left-color: #fff;
+    border-left-color: rgba(255, 255, 255, 0.35);
+}
+#tiptip_holder.tip_top #tiptip_arrow_inner {
+    margin-top: -7px;
+    margin-left: -6px;
+    border-top-color: #191919;
+    border-top-color: rgba(25, 25, 25, 0.92);
+}
+#tiptip_holder.tip_bottom #tiptip_arrow_inner {
+    margin-top: -5px;
+    margin-left: -6px;
+    border-bottom-color: #191919;
+    border-bottom-color: rgba(25, 25, 25, 0.92);
+}
+#tiptip_holder.tip_right #tiptip_arrow_inner {
+    margin-top: -6px;
+    margin-left: -5px;
+    border-right-color: #191919;
+    border-right-color: rgba(25, 25, 25, 0.92);
+}
+#tiptip_holder.tip_left #tiptip_arrow_inner {
+    margin-top: -6px;
+    margin-left: -7px;
+    border-left-color: #191919;
+    border-left-color: rgba(25, 25, 25, 0.92);
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    #tiptip_content {
+    padding: 4px 8px 5px 8px;
+    background-color: rgba(45, 45, 45, 0.88);
+}
+#tiptip_holder.tip_bottom #tiptip_arrow_inner {
+    border-bottom-color: rgba(45, 45, 45, 0.88);
+}
+#tiptip_holder.tip_top #tiptip_arrow_inner {
+    border-top-color: rgba(20, 20, 20, 0.92);
+}
+}.sprite-no-repeat, #tiptip_holder.tip_top #tiptip_arrow_inner {
+    background-repeat: no-repeat;
+    background-image: url(../img/sprite-no-repeat-optimized.png)!important;
+}
+.sprite-repeat-x {
+    background-repeat: repeat-x;
+    background-image: url(../img/sprite-repeat-x-optimized.png)!important;
+}
+#tiptip_holder {
+    left: 8px;
+}
+#tiptip_holder #tiptip_content {
+    background: #FFF;
+    border: 1px solid #BBB;
+    box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.094);
+    color: #999;
+    font-size: 11px;
+    text-align: center;
+    text-shadow: none;
+}
+#tiptip_holder.tip_top #tiptip_arrow_inner {
+    background-position: -187px 0;
+    border: none!important;
+    height: 11px;
+    top: 0;
+    width: 15px;
+}
+.no-boxshadow #tiptip_holder #tiptip_arrow #tiptip_arrow_inner {
+    background-position: -281px -33px;
+}
+.sprite-no-repeat, .wrapper-filtro .seta-filtro {
+    background-repeat: no-repeat;
+    background-image: url(../img/sprite-no-repeat-optimized.png)!important;
+}
+.sprite-repeat-x, #filtro-destinos-origens, #filtro-cias-aereas {
+    background-repeat: repeat-x;
+    background-image: url(../img/sprite-repeat-x-optimized.png)!important;
+}
+.wf-proximanovasemibold-n4-active #widget-lista-de-voos .filtro, .wf-proximanovasemibold-n4-active #widget-lista-de-voos .ui-corner-all {
+    font-family: ProximaNova-Regular;
+}
+.filtros-lista-de-voos {
+    height: 25px;
+    margin: 10px 0;
+    overflow: hidden;
+}
+#filtro-cias-aereas {
+    width: 288px;
+}
+#filtro-destinos-origens {
+    width: 408px;
+}
+#filtro-num-voo {
+    width: 168px;
+}
+#filtro-destinos-origens, #filtro-cias-aereas {
+    background-position: 0 -322px;
+}
+#filtro-destinos-origens:hover, #filtro-destinos-origens.hover, #filtro-cias-aereas:hover, #filtro-cias-aereas.hover {
+    background-image: none!important;
+}
+#filtro-num-voo {
+    -webkit-box-shadow: 1px 1px 0 #f2f2f2 inset;
+    -moz-box-shadow: 1px 1px 0 #f2f2f2 inset;
+    box-shadow: 1px 1px 0 #f2f2f2 inset;
+}
+#filtro-num-voo:hover {
+    -webkit-box-shadow: 1px 1px 0 #e5e5e5 inset;
+    -moz-box-shadow: 1px 1px 0 #e5e5e5 inset;
+    box-shadow: 1px 1px 0 #e5e5e5 inset;
+}
+.wrapper-filtro {
+    float: left;
+    height: 25px;
+    margin-left: 20px;
+}
+.wrapper-filtro:first-child {
+    margin-left: 0;
+}
+.wrapper-filtro.cias-aereas {
+    width: 300px;
+}
+.wrapper-filtro.destinos-origens {
+    width: 420px;
+}
+.wrapper-filtro.num-voo {
+    width: 180px;
+}
+.wrapper-filtro .placeholder-label {
+    display: block;
+    left: 8px;
+    text-transform: uppercase;
+    top: 8px;
+}
+.wrapper-filtro .filtro {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: 1px 1px 0 #f2f2f2 inset;
+    -moz-box-shadow: 1px 1px 0 #f2f2f2 inset;
+    box-shadow: 1px 1px 0 #f2f2f2 inset;
+    -webkit-transition-property: border-color, color;
+    -moz-transition-property: border-color, color;
+    -ms-transition-property: border-color, color;
+    -o-transition-property: border-color, color;
+    transition-property: border-color, color;
+    -webkit-transition-duration: .25s;
+    -moz-transition-duration: .25s;
+    -ms-transition-duration: .25s;
+    -o-transition-duration: .25s;
+    transition-duration: .25s;
+    -webkit-transition-timing-function: linear;
+    -moz-transition-timing-function: linear;
+    -ms-transition-timing-function: linear;
+    -o-transition-timing-function: linear;
+    transition-timing-function: linear;
+    -webkit-transition-delay: 0;
+    -moz-transition-delay: 0;
+    -ms-transition-delay: 0;
+    -o-transition-delay: 0;
+    transition-delay: 0;
+    border: 1px solid #D8D8D8;
+    color: #999;
+    font-size: 12px;
+    height: 20px;
+    padding: 3px 5px 0;
+    position: relative;
+    text-transform: uppercase;
+}
+.wrapper-filtro .filtro:hover, .wrapper-filtro .filtro.hover {
+    -webkit-box-shadow: 1px 1px 0 #e5e5e5 inset;
+    -moz-box-shadow: 1px 1px 0 #e5e5e5 inset;
+    box-shadow: 1px 1px 0 #e5e5e5 inset;
+    border-color: #B2B2B2;
+    color: #333;
+}
+.wrapper-filtro .filtro:hover+.seta-filtro, .wrapper-filtro .filtro.hover+.seta-filtro {
+    background-position: -234px -1px;
+}
+.wrapper-filtro .ui-autocomplete-input-open {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+    -webkit-border-radius: 3px 3px 0 0;
+    -moz-border-radius: 3px 3px 0 0;
+    -ms-border-radius: 3px 3px 0 0;
+    -o-border-radius: 3px 3px 0 0;
+    border-radius: 3px 3px 0 0;
+    border-color: #bbb #bbbbbb #dfdfdf #bbbbbb;
+    color: #333;
+    z-index: 3;
+}
+.wrapper-filtro .ui-autocomplete-input-open#filtro-cias-aereas, .wrapper-filtro .ui-autocomplete-input-open#filtro-destinos-origens, .wrapper-filtro .ui-autocomplete-input-open#filtro-num-voo {
+    background-image: none!important;
+}
+.wrapper-filtro .ui-autocomplete-input-open+.seta-filtro {
+    background-position: -244px -1px!important;
+    z-index: 2;
+}
+.wrapper-filtro .seta-filtro {
+    background-position: -223px -1px;
+    cursor: pointer;
+    float: right;
+    height: 6px;
+    margin: -15px 10px 0 0;
+    position: relative;
+    width: 9px;
+}
+.wrapper-filtro .clear-button {
+    background: url(../img/sprite-no-repeat-optimized.png) -256px 0 no-repeat!important;
+    border: 0;
+    cursor: pointer;
+    float: right;
+    height: 20px;
+    margin: -23px 3px 0 0;
+    position: relative;
+    overflow: hidden;
+    text-indent: 100%;
+    width: 19px;
+}
+.wrapper-filtro .ui-autocomplete {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+    background-color: #FFF;
+    border: 1px solid #BBB;
+    border-top: 25px solid #FFF;
+    cursor: pointer;
+    display: block;
+    float: left;
+    list-style: none;
+    margin: 0;
+    max-height: 232px;
+    overflow: auto;
+    padding: 0 0 3px 3px;
+    position: absolute;
+    z-index: 1!important;
+}
+.wrapper-filtro .ui-autocomplete .ui-menu-item {
+    color: #666;
+    font-size: 11px;
+    padding: 2px 0;
+    margin-right: 3px;
+    overflow: hidden;
+    text-transform: uppercase;
+}
+.wrapper-filtro .ui-autocomplete a.ui-corner-all {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    display: block;
+    height: 22px;
+    overflow: hidden;
+    padding-left: 3px;
+    margin-right: 3px;
+}
+.wrapper-filtro .ui-autocomplete .marca-pequena {
+    display: block;
+    float: left;
+    margin: 1px 10px 1px 0;
+}
+.wrapper-filtro .ui-autocomplete .label {
+    display: block;
+    float: left;
+    padding-top: 6px;
+}
+.wrapper-filtro #ui-active-menuitem {
+    background-color: #F2F2F2;
+}
+.wrapper-filtro.destinos-origens .ui-autocomplete {
+    max-height: 226px;
+}
+.wrapper-filtro.destinos-origens .ui-menu-item {
+    padding: 1px 0 0;
+}
+.wrapper-filtro.destinos-origens a.ui-corner-all {
+    height: 14px;
+    padding: 4px 0 0 3px;
+}
+.sprite-no-repeat, #widget-lista-de-voos .logo-infraero .logo, #widget-lista-de-voos .sprite-voo {
+    background-repeat: no-repeat;
+    background-image: url(../img/sprite-no-repeat-optimized.png)!important;
+}
+.sprite-repeat-x, #widget-lista-de-voos .aba {
+    background-repeat: repeat-x;
+    background-image: url(../img/sprite-repeat-x-optimized.png)!important;
+}
+.wf-proximanovasemibold-n4-active #widget-lista-de-voos {
+    font-family: ProximaNova-Regular;
+}
+.wf-proximanovasemibold-n4-active #widget-lista-de-voos .destino span {
+    font-family: ProximaNova-Bold;
+}
+#widget-lista-de-voos {
+    border-bottom: 1px dotted #BEBEBE;
+    padding-bottom: 20px;
+    margin-top: 36px;
+    overflow: hidden;
+}
+#widget-lista-de-voos .abas {
+    border-bottom: 1px solid #dfdfdf;
+    height: 52px;
+    margin-bottom: 26px;
+    width: 940px;
+}
+#widget-lista-de-voos .aba {
+    -webkit-border-radius: 4px 4px 0 0;
+    -moz-border-radius: 4px 4px 0 0;
+    -ms-border-radius: 4px 4px 0 0;
+    -o-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+    background-position: 0 -68px;
+    border: 1px solid;
+    border-color: #E5E5E5 #D9D9D9 #D9D9D9 #D9D9D9;
+    cursor: pointer;
+    float: left;
+    height: 50px;
+    margin-top: 1px;
+}
+#widget-lista-de-voos .aba.selecionada {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    background-color: #FFF;
+    border-top-color: #C2000E;
+    border-bottom-color: #FFF;
+    border-top: 3px solid #c40111;
+    cursor: default;
+    height: 48px;
+}
+#widget-lista-de-voos .aba.selecionada .botao-embarque, #widget-lista-de-voos .aba.selecionada .botao-desembarque, #widget-lista-de-voos .aba.selecionada .sprite-voo {
+    cursor: default;
+}
+#widget-lista-de-voos .aba.selecionada .botao-embarque, #widget-lista-de-voos .aba.selecionada .botao-desembarque {
+    color: #666;
+    margin-top: 16px;
+}
+#widget-lista-de-voos .aba.selecionada .botao-embarque:focus, #widget-lista-de-voos .aba.selecionada .botao-desembarque:focus {
+    border-bottom-color: #a80000;
+}
+#widget-lista-de-voos .aba.selecionada .sprite-voo {
+    margin-top: 10px;
+}
+#widget-lista-de-voos .aba.selecionada, #widget-lista-de-voos .aba:hover {
+    background-image: none!important;
+}
+#widget-lista-de-voos .aba .botao-embarque, #widget-lista-de-voos .aba .botao-desembarque {
+    border: 0 none;
+    color: gray;
+    cursor: pointer;
+    float: left;
+    font-size: 19px;
+    font-weight: normal;
+    letter-spacing: 0;
+    margin: 17px 27px 0 10px;
+    text-decoration: none;
+}
+#widget-lista-de-voos .aba .botao-embarque:focus, #widget-lista-de-voos .aba .botao-desembarque:focus {
+    border-bottom: 1px dotted #C8C8C8;
+}
+#widget-lista-de-voos .logo-infraero {
+    float: left;
+    position: relative;
+}
+#widget-lista-de-voos .logo-infraero .label {
+    font-family: ProximaNova-Bold;
+    color: #B7B7B7;
+    display: inline-block;
+    font-size: 10px;
+    margin-left: 19px;
+    margin-top: 8px;
+}
+#widget-lista-de-voos .logo-infraero .logo {
+    background-position: -216px -344px;
+    height: 17px;
+    left: 21px;
+    position: absolute;
+    top: 20px;
+    width: 94px;
+}
+#widget-lista-de-voos .sprite-voo {
+    display: inline-block;
+    float: left;
+    height: 29px;
+    margin: 12px 0 0 24px;
+    width: 31px;
+}
+#widget-lista-de-voos .embarque {
+    -webkit-box-shadow: -2px -1px 0 #e9e9e9 inset;
+    -moz-box-shadow: -2px -1px 0 #e9e9e9 inset;
+    box-shadow: -2px -1px 0 #e9e9e9 inset;
+    margin-right: -1px;
+}
+#widget-lista-de-voos .embarque.selecionada .botao-embarque {
+    margin-top: 15px;
+}
+#widget-lista-de-voos .embarque .sprite-voo {
+    background-position: -31px 0;
+}
+#widget-lista-de-voos .embarque.selecionada .sprite-voo {
+    background-position: -31px -29px;
+}
+#widget-lista-de-voos .desembarque {
+    -webkit-box-shadow: 2px -1px 0 #e9e9e9 inset;
+    -moz-box-shadow: 2px -1px 0 #e9e9e9 inset;
+    box-shadow: 2px -1px 0 #e9e9e9 inset;
+}
+#widget-lista-de-voos .desembarque .botao-desembarque {
+    margin: 16px 27px 0 12px;
+}
+#widget-lista-de-voos .desembarque.selecionada .botao-desembarque {
+    margin-top: 14px;
+}
+#widget-lista-de-voos .desembarque .sprite-voo {
+    background-position: 0 0;
+    margin: 12px 0 0 27px;
+}
+#widget-lista-de-voos .desembarque.selecionada .sprite-voo {
+    background-position: 0 -29px;
+}
+#widget-lista-de-voos .lista-de-voos {
+    display: none;
+    clear: both;
+    margin-top: 43px;
+    table-layout: fixed;
+}
+#widget-lista-de-voos .lista-de-voos.selecionada {
+    display: block;
+}
+#widget-lista-de-voos .lista-de-voos .data {
+    width: 80px;
+}
+#widget-lista-de-voos .lista-de-voos .previsto {
+    width: 80px;
+}
+#widget-lista-de-voos .lista-de-voos .confirmado {
+    width: 80px;
+}
+#widget-lista-de-voos .lista-de-voos .cia-aerea {
+    width: 80px;
+}
+#widget-lista-de-voos .lista-de-voos .voo {
+    width: 139px;
+}
+#widget-lista-de-voos .lista-de-voos .destino {
+    width: 321px;
+}
+#widget-lista-de-voos .lista-de-voos .status {
+    width: 166px;
+}
+#widget-lista-de-voos .lista-de-voos .cia-aerea {
+    font-size: 10px;
+    letter-spacing: -0.8px;
+    text-transform: uppercase;
+}
+#widget-lista-de-voos .lista-de-voos .voo {
+    color: #525252;
+}
+#widget-lista-de-voos .lista-de-voos .destino {
+    padding-left: 19px;
+    text-align: left;
+    text-transform: uppercase;
+}
+#widget-lista-de-voos .lista-de-voos .destino span {
+    color: #333;
+}
+#widget-lista-de-voos .lista-de-voos .status {
+    text-align: left;
+    font-size: 13px;
+    letter-spacing: -0.3px;
+    text-transform: uppercase;
+}
+#widget-lista-de-voos .lista-de-voos .status .cancelado {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #a80000;
+    color: #FFF;
+    padding: 3px 6px 2px;
+}
+#widget-lista-de-voos .lista-de-voos .atrasado {
+    color: #a80000;
+}
+#widget-lista-de-voos .lista-de-voos thead .destino {
+    padding-left: 18px;
+}
+#widget-lista-de-voos .lista-de-voos thead .status {
+    font-size: 10px;
+}
+#widget-lista-de-voos .lista-de-voos th {
+    border-bottom: 3px solid #dfdfdf;
+    color: #666;
+    cursor: default;
+    font-size: 10px;
+    font-weight: normal;
+    height: 32px;
+    text-align: center;
+    text-transform: uppercase;
+}
+#widget-lista-de-voos .lista-de-voos td {
+    border-bottom: 1px dotted #bebebe;
+    color: #666;
+    font-size: 14px;
+    height: 67px;
+    text-align: center;
+}
+#widget-lista-de-voos .lista-de-voos td.data {
+    text-align: left;
+    text-indent: 26px;
+}
+#widget-lista-de-voos .lista-de-voos td, #widget-lista-de-voos .lista-de-voos .destino, #widget-lista-de-voos .lista-de-voos .destino span, #widget-lista-de-voos .lista-de-voos .status span {
+    -webkit-transition-property: background-color, color;
+    -moz-transition-property: background-color, color;
+    -ms-transition-property: background-color, color;
+    -o-transition-property: background-color, color;
+    transition-property: background-color, color;
+    -webkit-transition-duration: .25s;
+    -moz-transition-duration: .25s;
+    -ms-transition-duration: .25s;
+    -o-transition-duration: .25s;
+    transition-duration: .25s;
+    -webkit-transition-timing-function: linear;
+    -moz-transition-timing-function: linear;
+    -ms-transition-timing-function: linear;
+    -o-transition-timing-function: linear;
+    transition-timing-function: linear;
+    -webkit-transition-delay: 0;
+    -moz-transition-delay: 0;
+    -ms-transition-delay: 0;
+    -o-transition-delay: 0;
+    transition-delay: 0;
+}
+#widget-lista-de-voos .lista-de-voos .zebra {
+    background-color: #fafafa;
+}
+#widget-lista-de-voos .lista-de-voos tbody:hover td {
+    color: #ccc;
+}
+#widget-lista-de-voos .lista-de-voos tbody:hover .destino span {
+    color: #999;
+}
+#widget-lista-de-voos .lista-de-voos tbody:hover .status .atrasado {
+    color: #cd7979;
+}
+#widget-lista-de-voos .lista-de-voos tbody:hover .status .cancelado {
+    background-color: #cd7979;
+}
+#widget-lista-de-voos .lista-de-voos tr:hover td, #widget-lista-de-voos .lista-de-voos tr:hover .destino span, #widget-lista-de-voos .lista-de-voos tr:hover .atrasado {
+    background-color: #f2f2f2;
+    color: #a80000;
+}
+#widget-lista-de-voos .lista-de-voos tr:hover .status .cancelado {
+    background-color: #a80000;
+}
+#widget-lista-de-voos .data-atualizacao, #widget-lista-de-voos .disclaimer {
+    color: #b7b7b7;
+    float: left;
+    font-size: 10px;
+    line-height: 12px;
+    margin-top: 28px;
+    text-transform: uppercase;
+    width: 222px;
+}
+#widget-lista-de-voos .disclaimer {
+    text-align: right;
+}
+@charset "UTF-8";
+    .paginacao {
+    float: left;
+    font: 14px arial, sans-serif;
+    margin-top: 20px;
+    text-align: center;
+    width: 496px;
+}
+.paginacao input {
+    border: 0;
+    vertical-align: middle;
+}
+.paginacao label {
+    color: #999;
+    margin-left: 10px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.paginacao .botao {
+    background-repeat: no-repeat;
+    background-image: url(../img/common/img/sprite_paginacao.png)!important;
+    background-color: #a80000;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+.paginacao .pagina-anterior {
+    background-position: 0 0;
+    margin-right: 10px;
+}
+.paginacao .pagina-anterior:hover {
+    background-position: -30px 0;
+}
+.paginacao .pagina-anterior:active {
+    background-position: -60px 0;
+}
+.paginacao .pagina-anterior.desativado {
+    background-position: -90px 0;
+    cursor: default;
+}
+.paginacao .proxima-pagina {
+    background-position: 0 -30px;
+}
+.paginacao .proxima-pagina:hover {
+    background-position: -30px -30px;
+}
+.paginacao .proxima-pagina:active {
+    background-position: -60px -30px;
+}
+.paginacao .proxima-pagina.desativado {
+    background-position: -90px -30px;
+    cursor: default;
+}
+.paginacao #numero-pagina {
+    background-repeat: no-repeat;
+    background-image: url(../img/common/img/sprite_paginacao.png)!important;
+    background-position: 0 -60px;
+    color: #666;
+    font-size: 14px;
+    height: 34px;
+    text-align: center;
+    width: 40px;
+}
+.lt-ie9 #numero-pagina {
+    height: 24px;
+    padding-top: 10px;
+}
+.marca.tam, .marca.gol, .marca.air-france, .marca.air-italy, .marca.webjet, .marca.azul, .marca.avianca, .marca.trip, .marca.meta, .marca.sete, .marca.air-caraibes, .marca.passaredo, .marca.surinam-airways, .marca.american-airlines, .marca.copa-airlines, .marca.pantanal, .marca.pluna, .marca.tap-portugal, .marca.delta-air-lines, .marca.taca-peru, .marca.team, .marca.absa, .marca.nht, .marca.aerolineas-argentinas, .marca.andes, .marca.bqb-linhas-aereas, .marca.lan-argentina, .marca.lan-chile, .marca.lan-peru, .marca.tacv, .marca.iberia, .marca.klm, .marca.puma-air, .marca.tui-airlines-belgium, .marca.continental-air-lines, .marca.qatar, .marca.total, .marca.united-airlines, .marca.abaete, .marca.alitalia, .marca.all-nipon-airways, .marca.british-airways, .marca.emirates-airlines, .marca.lufthansa, .marca.florida-west, .marca.taag-airlines, .marca.us-airways, .marca.condor, .marca.aeromexico, .marca.aerosur, .marca.air-canada, .marca.air-china, .marca.boliviana-de-aviacion, .marca.korean-airlines, .marca.singapore, .marca.south-african-airways, .marca.swiss, .marca.turkish-airlines, .marca.air-europa, .marca.austral, .marca.aerolinea-principal-chile {
+    background: transparent url(../img/empresas-sprite-optimized.png) no-repeat scroll 0 0;
+    height: 66px;
+    overflow: hidden;
+    text-indent: -999px;
+    width: 90px;
+    white-space: nowrap;
+}
+.marca-pequena {
+    background: transparent url(../img/sprite-no-repeat-optimized.png) no-repeat scroll -275px 0;
+    height: 20px;
+    overflow: hidden;
+    text-indent: -999px;
+    width: 30px;
+    white-space: nowrap;
+}
+.marca-pequena.tam, .marca-pequena.gol, .marca-pequena.air-france, .marca-pequena.air-italy, .marca-pequena.webjet, .marca-pequena.azul, .marca-pequena.avianca, .marca-pequena.trip, .marca-pequena.meta, .marca-pequena.sete, .marca-pequena.air-caraibes, .marca-pequena.passaredo, .marca-pequena.surinam-airways, .marca-pequena.american-airlines, .marca-pequena.copa-airlines, .marca-pequena.pantanal, .marca-pequena.pluna, .marca-pequena.tap-portugal, .marca-pequena.delta-air-lines, .marca-pequena.taca-peru, .marca-pequena.team, .marca-pequena.absa, .marca-pequena.nht, .marca-pequena.aerolineas-argentinas, .marca-pequena.andes, .marca-pequena.bqb-linhas-aereas, .marca-pequena.lan-argentina, .marca-pequena.lan-chile, .marca-pequena.lan-peru, .marca-pequena.tacv, .marca-pequena.iberia, .marca-pequena.klm, .marca-pequena.puma-air, .marca-pequena.tui-airlines-belgium, .marca-pequena.continental-air-lines, .marca-pequena.qatar, .marca-pequena.total, .marca-pequena.united-airlines, .marca-pequena.abaete, .marca-pequena.alitalia, .marca-pequena.all-nipon-airways, .marca-pequena.british-airways, .marca-pequena.emirates-airlines, .marca-pequena.lufthansa, .marca-pequena.florida-west, .marca-pequena.taag-airlines, .marca-pequena.us-airways, .marca-pequena.condor, .marca-pequena.aeromexico, .marca-pequena.aerosur, .marca-pequena.air-canada, .marca-pequena.air-china, .marca-pequena.aerolinea-principal-chile, .marca-pequena.boliviana-de-aviacion, .marca-pequena.korean-airlines, .marca-pequena.singapore, .marca-pequena.south-african-airways, .marca-pequena.swiss, .marca-pequena.turkish-airlines, .marca-pequena.air-europa, .marca-pequena.austral {
+    background: transparent url(../img/empresas-sprite-optimized.png) no-repeat scroll 0 0;
+}
+.marca-pequena.tam {
+    background-position: 0 0;
+}
+.marca.tam {
+    background-position: -30px 0;
+}
+.marca-pequena.gol {
+    background-position: 0 -65px;
+}
+.marca.gol {
+    background-position: -30px -65px;
+}
+.marca-pequena.air-france {
+    background-position: 0 -130px;
+}
+.marca.air-france {
+    background-position: -30px -130px;
+}
+.marca-pequena.air-italy {
+    background-position: 0 -195px;
+}
+.marca.air-italy {
+    background-position: -30px -195px;
+}
+.marca-pequena.webjet {
+    background-position: 0 -260px;
+}
+.marca.webjet {
+    background-position: -30px -260px;
+}
+.marca-pequena.azul {
+    background-position: 0 -325px;
+}
+.marca.azul {
+    background-position: -30px -325px;
+}
+.marca-pequena.avianca {
+    background-position: 0 -390px;
+}
+.marca.avianca {
+    background-position: -30px -390px;
+}
+.marca-pequena.trip {
+    background-position: 0 -455px;
+}
+.marca.trip {
+    background-position: -30px -455px;
+}
+.marca-pequena.meta {
+    background-position: 0 -520px;
+}
+.marca.meta {
+    background-position: -30px -520px;
+}
+.marca-pequena.sete {
+    background-position: 0 -585px;
+}
+.marca.sete {
+    background-position: -30px -585px;
+}
+.marca-pequena.air-caraibes {
+    background-position: 0 -650px;
+}
+.marca.air-caraibes {
+    background-position: -30px -650px;
+}
+.marca-pequena.passaredo {
+    background-position: 0 -715px;
+}
+.marca.passaredo {
+    background-position: -30px -715px;
+}
+.marca-pequena.surinam-airways {
+    background-position: 0 -780px;
+}
+.marca.surinam-airways {
+    background-position: -30px -780px;
+}
+.marca-pequena.american-airlines {
+    background-position: 0 -845px;
+}
+.marca.american-airlines {
+    background-position: -30px -845px;
+}
+.marca-pequena.copa-airlines {
+    background-position: 0 -910px;
+}
+.marca.copa-airlines {
+    background-position: -30px -910px;
+}
+.marca-pequena.pantanal {
+    background-position: 0 -975px;
+}
+.marca.pantanal {
+    background-position: -30px -975px;
+}
+.marca-pequena.pluna {
+    background-position: 0 -1040px;
+}
+.marca.pluna {
+    background-position: -30px -1040px;
+}
+.marca-pequena.tap-portugal {
+    background-position: 0 -1105px;
+}
+.marca.tap-portugal {
+    background-position: -30px -1105px;
+}
+.marca-pequena.delta-air-lines {
+    background-position: 0 -1170px;
+}
+.marca.delta-air-lines {
+    background-position: -30px -1170px;
+}
+.marca-pequena.taca-peru {
+    background-position: 0 -1235px;
+}
+.marca.taca-peru {
+    background-position: -30px -1235px;
+}
+.marca-pequena.team {
+    background-position: 0 -1300px;
+}
+.marca.team {
+    background-position: -30px -1300px;
+}
+.marca-pequena.absa {
+    background-position: 0 -1365px;
+}
+.marca.absa {
+    background-position: -30px -1365px;
+}
+.marca-pequena.nht {
+    background-position: 0 -1430px;
+}
+.marca.nht {
+    background-position: -30px -1430px;
+}
+.marca-pequena.aerolineas-argentinas {
+    background-position: 0 -1495px;
+}
+.marca.aerolineas-argentinas {
+    background-position: -30px -1495px;
+}
+.marca-pequena.andes {
+    background-position: 0 -1560px;
+}
+.marca.andes {
+    background-position: -30px -1560px;
+}
+.marca-pequena.bqb-linhas-aereas {
+    background-position: 0 -1625px;
+}
+.marca.bqb-linhas-aereas {
+    background-position: -30px -1625px;
+}
+.marca-pequena.lan-argentina, .marca-pequena.lan-chile, .marca-pequena.lan-peru {
+    background-position: 0 -1690px;
+}
+.marca.lan-argentina, .marca.lan-chile, .marca.lan-peru {
+    background-position: -30px -1690px;
+}
+.marca-pequena.tacv {
+    background-position: 0 -1755px;
+}
+.marca.tacv {
+    background-position: -30px -1755px;
+}
+.marca-pequena.iberia {
+    background-position: 0 -1820px;
+}
+.marca.iberia {
+    background-position: -30px -1820px;
+}
+.marca-pequena.klm {
+    background-position: 0 -1885px;
+}
+.marca.klm {
+    background-position: -30px -1885px;
+}
+.marca-pequena.puma-air {
+    background-position: 0 -1950px;
+}
+.marca.puma-air {
+    background-position: -30px -1950px;
+}
+.marca-pequena.tui-airlines-belgium {
+    background-position: 0 -2015px;
+}
+.marca.tui-airlines-belgium {
+    background-position: -30px -2015px;
+}
+.marca-pequena.continental-air-lines {
+    background-position: 0 -2080px;
+}
+.marca.continental-air-lines {
+    background-position: -30px -2080px;
+}
+.marca-pequena.qatar {
+    background-position: 0 -2145px;
+}
+.marca.qatar {
+    background-position: -30px -2145px;
+}
+.marca-pequena.total {
+    background-position: 0 -2210px;
+}
+.marca.total {
+    background-position: -30px -2210px;
+}
+.marca-pequena.united-airlines {
+    background-position: 0 -2275px;
+}
+.marca.united-airlines {
+    background-position: -30px -2275px;
+}
+.marca-pequena.abaete {
+    background-position: 0 -2340px;
+}
+.marca.abaete {
+    background-position: -30px -2340px;
+}
+.marca-pequena.alitalia {
+    background-position: 0 -2405px;
+}
+.marca.alitalia {
+    background-position: -30px -2405px;
+}
+.marca-pequena.all-nipon-airways {
+    background-position: 0 -2470px;
+}
+.marca.all-nipon-airways {
+    background-position: -30px -2470px;
+}
+.marca-pequena.british-airways {
+    background-position: 0 -2535px;
+}
+.marca.british-airways {
+    background-position: -30px -2535px;
+}
+.marca-pequena.emirates-airlines {
+    background-position: 0 -2600px;
+}
+.marca.emirates-airlines {
+    background-position: -30px -2600px;
+}
+.marca-pequena.lufthansa {
+    background-position: 0 -2665px;
+}
+.marca.lufthansa {
+    background-position: -30px -2665px;
+}
+.marca-pequena.florida-west {
+    background-position: 0 -2730px;
+}
+.marca.florida-west {
+    background-position: -30px -2730px;
+}
+.marca-pequena.taag-airlines {
+    background-position: 0 -2795px;
+}
+.marca.taag-airlines {
+    background-position: -30px -2795px;
+}
+.marca-pequena.us-airways {
+    background-position: 0 -2860px;
+}
+.marca.us-airways {
+    background-position: -30px -2860px;
+}
+.marca-pequena.condor {
+    background-position: 0 -2925px;
+}
+.marca.condor {
+    background-position: -30px -2925px;
+}
+.marca-pequena.aeromexico {
+    background-position: 0 -2990px;
+}
+.marca.aeromexico {
+    background-position: -30px -2990px;
+}
+.marca-pequena.aerosur {
+    background-position: 0 -3055px;
+}
+.marca.aerosur {
+    background-position: -30px -3055px;
+}
+.marca-pequena.air-canada {
+    background-position: 0 -3120px;
+}
+.marca.air-canada {
+    background-position: -30px -3120px;
+}
+.marca-pequena.air-china {
+    background-position: 0 -3185px;
+}
+.marca.air-china {
+    background-position: -30px -3185px;
+}
+.marca-pequena.boliviana-de-aviacion {
+    background-position: 0 -3250px;
+}
+.marca.boliviana-de-aviacion {
+    background-position: -30px -3250px;
+}
+.marca-pequena.aerolinea-principal-chile {
+    background-position: 0 -3250px;
+}
+.marca.aerolinea-principal-chile {
+    background-position: -30px -3770px;
+}
+.marca-pequena.korean-airlines {
+    background-position: 0 -3770px;
+}
+.marca.korean-airlines {
+    background-position: -30px -3315px;
+}
+.marca-pequena.singapore {
+    background-position: 0 -3380px;
+}
+.marca.singapore {
+    background-position: -30px -3380px;
+}
+.marca-pequena.south-african-airways {
+    background-position: 0 -3445px;
+}
+.marca.south-african-airways {
+    background-position: -30px -3445px;
+}
+.marca-pequena.swiss {
+    background-position: 0 -3510px;
+}
+.marca.swiss {
+    background-position: -30px -3510px;
+}
+.marca-pequena.turkish-airlines {
+    background-position: 0 -3575px;
+}
+.marca.turkish-airlines {
+    background-position: -30px -3575px;
+}
+.marca-pequena.air-europa {
+    background-position: 0 -3640px;
+}
+.marca.air-europa {
+    background-position: -30px -3640px;
+}
+.marca-pequena.austral {
+    background-position: 0 -3705px;
+}
+.marca.austral {
+    background-position: -30px -3705px;
+}
+.placeholder-wrapper {
+    display: block;
+    position: relative;
+}
+.placeholder-wrapper .placeholder-label {
+    font-family: ProximaNova-Light;
+    color: #333;
+    position: absolute;
+}
+.placeholder-wrapper.placeholder-focus .placeholder-label {
+    color: #EEE;
+}
+.placeholder-wrapper.placeholder-filled .placeholder-label {
+    visibility: hidden;
+}
+.sprite-no-repeat, #informacoes-do-aeroporto .label .imagem {
+    background-repeat: no-repeat;
+    background-image: url(../img/sprite-no-repeat-optimized.png)!important;
+}
+.sprite-repeat-x {
+    background-repeat: repeat-x;
+    background-image: url(../img/sprite-repeat-x-optimized.png)!important;
+}
+#informacoes-do-aeroporto {
+    font-family: ProximaNova-SemiBold;
+    color: #838383;
+    font-size: 12px;
+    letter-spacing: -0.3px;
+    margin-bottom: 58px;
+    margin-top: 25px;
+    text-transform: uppercase;
+}
+#informacoes-do-aeroporto .label {
+    color: #333;
+    line-height: 20px;
+    vertical-align: top;
+}
+#informacoes-do-aeroporto .label .imagem {
+    background-position: -202px 0;
+    display: inline-block;
+    height: 21px;
+    margin-right: 9px;
+    margin-top: -4px;
+    vertical-align: top;
+    width: 20px;
+}
+#informacoes-do-aeroporto .informacoes {
+    display: inline-block;
+    line-height: 20px;
+    margin-left: 11px;
+    vertical-align: top;
+    width: 710px;
+}
+#informacoes-do-aeroporto .informacoes>span:after {
+    content: 'â€¢';
+    font-size: 10px;
+    margin-left: 12px;
+    margin-right: 9px;
+}
+#informacoes-do-aeroporto .informacoes>span:last-child:after {
+    content: '';
+    margin: 0;
+}
+#informacoes-do-aeroporto .informacoes .telefone, #informacoes-do-aeroporto .informacoes .fax, #informacoes-do-aeroporto .informacoes .website {
+    white-space: nowrap;
+}
+#informacoes-do-aeroporto .informacoes .website a {
+    color: #BD0101;
+}
+#informacoes-do-aeroporto .informacoes .website a:hover {
+    text-decoration: underline;
+}
+#informacoes-do-aeroporto .separador {
+    display: inline-block;
+    height: 11px;
+    margin-top: 23px;
+    width: 940px;
+}
+.primary-content {
+    display: block!important;
+}
+.grande {
+	background-position-x: -121px !important;
+	width: 108px !important;
+	
+color: #28282a;
+font-size: 54%;
+line-height: 100%;
+text-align: center;
+text-shadow: none;
+white-space: normal;
+}

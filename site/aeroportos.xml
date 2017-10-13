@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>COD_IATA</key>
+		<string>ATM</string>
+		<key>COD_ICAO</key>
+		<string>SBHT</string>
+		<key>LOC</key>
+		<string>-3.25083,-52.252221</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Altamira</string>
+		<key>NOM_CIDADE</key>
+		<string>Altamira</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PA</string>
+		<key>VNOM_CURTO</key>
+		<string>ALTAMIRA-PA</string>
+		<key>WEATHER</key>
+		<string>Aeroporto de Altamira,ALTAMIRA,PA,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>AJU</string>
+		<key>COD_ICAO</key>
+		<string>SBAR</string>
+		<key>LOC</key>
+		<string>-10.983956,-37.069845</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Aracaju</string>
+		<key>NOM_CIDADE</key>
+		<string>Aracaju</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>SE</string>
+		<key>VNOM_CURTO</key>
+		<string>ARACAJU-SE</string>
+		<key>WEATHER</key>
+		<string>ARACAJU,SE,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>BEL</string>
+		<key>COD_ICAO</key>
+		<string>SBBE</string>
+		<key>LOC</key>
+		<string>-1.381933,-48.482559</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Belém</string>
+		<key>NOM_CIDADE</key>
+		<string>Belém</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PA</string>
+		<key>VNOM_CURTO</key>
+		<string>BELÉM-PA</string>
+		<key>WEATHER</key>
+		<string>BELEM,PA,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>PLU</string>
+		<key>COD_ICAO</key>
+		<string>SBBH</string>
+		<key>LOC</key>
+		<string>-19.849152,-43.949046</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Belo Horizonte-MG - Carlos Drummond de Andrade</string>
+		<key>NOM_CIDADE</key>
+		<string>Belo Horizonte</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>MG</string>
+		<key>VNOM_CURTO</key>
+		<string>BELO HORIZONTE - PAMPULHA-MG</string>
+		<key>WEATHER</key>
+		<string>BELO HORIZONTE,MG,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CNF</string>
+		<key>COD_ICAO</key>
+		<string>SBCF</string>
+		<key>LOC</key>
+		<string>-19.6341,-43.968401</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Tancredo Neves</string>
+		<key>NOM_CIDADE</key>
+		<string>Belo Horizonte</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>MG</string>
+		<key>VNOM_CURTO</key>
+		<string>BELO HORIZONTE - T.NEVES-MG</string>
+		<key>WEATHER</key>
+		<string>BELO HORIZONTE,MG,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>BVB</string>
+		<key>COD_ICAO</key>
+		<string>SBBV</string>
+		<key>LOC</key>
+		<string>2.845812,-60.689764</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Boa Vista - Atlas Brasil Cantanhede</string>
+		<key>NOM_CIDADE</key>
+		<string>Boa Vista</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>RR</string>
+		<key>VNOM_CURTO</key>
+		<string>BOA VISTA-RR</string>
+		<key>WEATHER</key>
+		<string>BOA VISTA,RR,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>BSB</string>
+		<key>COD_ICAO</key>
+		<string>SBBR</string>
+		<key>LOC</key>
+		<string>-15.869792,-47.921484</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Brasília - Presidente Juscelino Kubitschek</string>
+		<key>NOM_CIDADE</key>
+		<string>Brasília</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>DF</string>
+		<key>VNOM_CURTO</key>
+		<string>BRASÍLIA-DF</string>
+		<key>WEATHER</key>
+		<string>BRASILIA,DF,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CPV</string>
+		<key>COD_ICAO</key>
+		<string>SBKG</string>
+		<key>LOC</key>
+		<string>-7.269673,-35.895767</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Presidente João Suassuna</string>
+		<key>NOM_CIDADE</key>
+		<string>Campina Grande</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PB</string>
+		<key>VNOM_CURTO</key>
+		<string>CAMPINA GRANDE-PB</string>
+		<key>WEATHER</key>
+		<string>CAMPINA GRANDE,PB,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>VCP</string>
+		<key>COD_ICAO</key>
+		<string>SBKP</string>
+		<key>LOC</key>
+		<string>-23.007819,-47.136111</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Viracopos/Campinas</string>
+		<key>NOM_CIDADE</key>
+		<string>Campinas</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>SP</string>
+		<key>VNOM_CURTO</key>
+		<string>CAMPINAS-SP</string>
+		<key>WEATHER</key>
+		<string>CAMPINAS,SP,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CGR</string>
+		<key>COD_ICAO</key>
+		<string>SBCG</string>
+		<key>LOC</key>
+		<string>-20.469476,-54.673805</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Campo Grande</string>
+		<key>NOM_CIDADE</key>
+		<string>Campo Grande</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>MS</string>
+		<key>VNOM_CURTO</key>
+		<string>CAMPO GRANDE-MS</string>
+		<key>WEATHER</key>
+		<string>CAMPO GRANDE,MS,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CAW</string>
+		<key>COD_ICAO</key>
+		<string>SBCP</string>
+		<key>LOC</key>
+		<string>-21.700419,-41.302156</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Bartolomeu Lizandro</string>
+		<key>NOM_CIDADE</key>
+		<string>Rio De Janeiro</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>RJ</string>
+		<key>VNOM_CURTO</key>
+		<string>CAMPOS DOS GOYTACAZES-RJ</string>
+		<key>WEATHER</key>
+		<string>CAMPOS,RJ,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CKS</string>
+		<key>COD_ICAO</key>
+		<string>SBCJ</string>
+		<key>LOC</key>
+		<string>-6.117598,-50.00056</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Carajás</string>
+		<key>NOM_CIDADE</key>
+		<string>Parauapebas</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PA</string>
+		<key>VNOM_CURTO</key>
+		<string>CARAJÁS-PA</string>
+		<key>WEATHER</key>
+		<string>CARAJAS,PA,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CMG</string>
+		<key>COD_ICAO</key>
+		<string>SBCR</string>
+		<key>LOC</key>
+		<string>-19.012503,-57.662387</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Corumbá</string>
+		<key>NOM_CIDADE</key>
+		<string>Corumbá</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>MS</string>
+		<key>VNOM_CURTO</key>
+		<string>CORUMBÁ-MS</string>
+		<key>WEATHER</key>
+		<string>Aeroporto Internacional de Corumba,CORUMBA,MS,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CCM</string>
+		<key>COD_ICAO</key>
+		<string>SBCM</string>
+		<key>LOC</key>
+		<string>-28.724445,-49.421396</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Criciúma</string>
+		<key>NOM_CIDADE</key>
+		<string>Criciúma</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>SC</string>
+		<key>VNOM_CURTO</key>
+		<string>CRICIÚMA-SC</string>
+		<key>WEATHER</key>
+		<string>CRICIUMA,SC,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CZS</string>
+		<key>COD_ICAO</key>
+		<string>SBCZ</string>
+		<key>LOC</key>
+		<string>-7.599747,-72.773008</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Cruzeiro Do Sul</string>
+		<key>NOM_CIDADE</key>
+		<string>Cruzeiro Do Sul</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>AC</string>
+		<key>VNOM_CURTO</key>
+		<string>CRUZEIRO DO SUL-AC</string>
+		<key>WEATHER</key>
+		<string>CRUZEIRO DO SUL,AC,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CGB</string>
+		<key>COD_ICAO</key>
+		<string>SBCY</string>
+		<key>LOC</key>
+		<string>-15.653681,-56.116431</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Marechal Rondon</string>
+		<key>NOM_CIDADE</key>
+		<string>Cuiabá</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>MT</string>
+		<key>VNOM_CURTO</key>
+		<string>CUIABÁ-MT</string>
+		<key>WEATHER</key>
+		<string>CUIABA,MT,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CWB</string>
+		<key>COD_ICAO</key>
+		<string>SBCT</string>
+		<key>LOC</key>
+		<string>-25.533303,-49.176178</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Afonso Pena</string>
+		<key>NOM_CIDADE</key>
+		<string>Curitiba</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PR</string>
+		<key>VNOM_CURTO</key>
+		<string>CURITIBA-PR</string>
+		<key>WEATHER</key>
+		<string>CURITIBA,PR,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>FLN</string>
+		<key>COD_ICAO</key>
+		<string>SBFL</string>
+		<key>LOC</key>
+		<string>-27.670606,-48.546867</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Florianópolis</string>
+		<key>NOM_CIDADE</key>
+		<string>Florianópolis</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>SC</string>
+		<key>VNOM_CURTO</key>
+		<string>FLORIANÓPOLIS-SC</string>
+		<key>WEATHER</key>
+		<string>FLORIANOPOLIS,SC,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>FOR</string>
+		<key>COD_ICAO</key>
+		<string>SBFZ</string>
+		<key>LOC</key>
+		<string>-3.775317,-38.5324</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Pinto Martins</string>
+		<key>NOM_CIDADE</key>
+		<string>Fortaleza</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>CE</string>
+		<key>VNOM_CURTO</key>
+		<string>FORTALEZA-CE</string>
+		<key>WEATHER</key>
+		<string>FORTALEZA,CE,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>IGU</string>
+		<key>COD_ICAO</key>
+		<string>SBFI</string>
+		<key>LOC</key>
+		<string>-25.5948,-54.487832</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Foz Do Iguaçu</string>
+		<key>NOM_CIDADE</key>
+		<string>Foz Do Iguaçu</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PR</string>
+		<key>VNOM_CURTO</key>
+		<string>FOZ DO IGUAÇU-PR</string>
+		<key>WEATHER</key>
+		<string>FOZ DO IGUACU,PR,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>GYN</string>
+		<key>COD_ICAO</key>
+		<string>SBGO</string>
+		<key>LOC</key>
+		<string>-16.631586,-49.222012</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Goiânia</string>
+		<key>NOM_CIDADE</key>
+		<string>Goiânia</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>GO</string>
+		<key>VNOM_CURTO</key>
+		<string>GOIÂNIA-GO</string>
+		<key>WEATHER</key>
+		<string>GOIANIA,GO,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>IOS</string>
+		<key>COD_ICAO</key>
+		<string>SBIL</string>
+		<key>LOC</key>
+		<string>-14.816333,-39.032128</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Ilhéus/Bahia-Jorge Amado</string>
+		<key>NOM_CIDADE</key>
+		<string>Ilhéus</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>BA</string>
+		<key>VNOM_CURTO</key>
+		<string>ILHÉUS-BA</string>
+		<key>WEATHER</key>
+		<string>ILHEUS,BA,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>IMP</string>
+		<key>COD_ICAO</key>
+		<string>SBIZ</string>
+		<key>LOC</key>
+		<string>-5.531244,-47.459908</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Imperatriz - Prefeito Renato Moreira</string>
+		<key>NOM_CIDADE</key>
+		<string>Imperatriz</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>MA</string>
+		<key>VNOM_CURTO</key>
+		<string>IMPERATRIZ-MA</string>
+		<key>WEATHER</key>
+		<string>IMPERATRIZ,MA,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>JPA</string>
+		<key>COD_ICAO</key>
+		<string>SBJP</string>
+		<key>LOC</key>
+		<string>-7.147309,-34.950171</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Presidente Castro Pinto</string>
+		<key>NOM_CIDADE</key>
+		<string>João Pessoa</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PB</string>
+		<key>VNOM_CURTO</key>
+		<string>JOÃO PESSOA-PB</string>
+		<key>WEATHER</key>
+		<string>JOAO PESSOA,PB,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>JOI</string>
+		<key>COD_ICAO</key>
+		<string>SBJV</string>
+		<key>LOC</key>
+		<string>-26.224408,-48.797557</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Joinville - Lauro Carneiro de Loyola</string>
+		<key>NOM_CIDADE</key>
+		<string>Joinville</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>SC</string>
+		<key>VNOM_CURTO</key>
+		<string>JOINVILLE-SC</string>
+		<key>WEATHER</key>
+		<string>JOINVILLE,SC,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>JDO</string>
+		<key>COD_ICAO</key>
+		<string>SBJU</string>
+		<key>LOC</key>
+		<string>-7.215792,-39.272674</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Juazeiro do Norte - Orlando Bezerra de Menezes</string>
+		<key>NOM_CIDADE</key>
+		<string>Juazeiro Do Norte</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>CE</string>
+		<key>VNOM_CURTO</key>
+		<string>JUAZEIRO DO NORTE-CE</string>
+		<key>WEATHER</key>
+		<string>JUAZEIRO,CE,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>LDB</string>
+		<key>COD_ICAO</key>
+		<string>SBLO</string>
+		<key>LOC</key>
+		<string>-23.329661,-51.137136</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Londrina</string>
+		<key>NOM_CIDADE</key>
+		<string>Londrina</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PR</string>
+		<key>VNOM_CURTO</key>
+		<string>LONDRINA-PR</string>
+		<key>WEATHER</key>
+		<string>LONDRINA,PR,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>MEA</string>
+		<key>COD_ICAO</key>
+		<string>SBME</string>
+		<key>LOC</key>
+		<string>-22.343794,-41.766082</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Macaé</string>
+		<key>NOM_CIDADE</key>
+		<string>Macaé</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>RJ</string>
+		<key>VNOM_CURTO</key>
+		<string>MACAÉ-RJ</string>
+		<key>WEATHER</key>
+		<string>MACAE,RJ,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>MCP</string>
+		<key>COD_ICAO</key>
+		<string>SBMQ</string>
+		<key>LOC</key>
+		<string>0.050833,-51.07029</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Macapá - Alberto Alcolumbre</string>
+		<key>NOM_CIDADE</key>
+		<string>Macapá</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>AP</string>
+		<key>VNOM_CURTO</key>
+		<string>MACAPÁ-AP</string>
+		<key>WEATHER</key>
+		<string>MACAPA,AP,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>MCZ</string>
+		<key>COD_ICAO</key>
+		<string>SBMO</string>
+		<key>LOC</key>
+		<string>-9.509974,-35.793672</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Maceió/Zumbi Dos Palmares</string>
+		<key>NOM_CIDADE</key>
+		<string>Maceió</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>AL</string>
+		<key>VNOM_CURTO</key>
+		<string>MACEIÓ-AL</string>
+		<key>WEATHER</key>
+		<string>MACEIO,AL,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>MAO</string>
+		<key>COD_ICAO</key>
+		<string>SBEG</string>
+		<key>LOC</key>
+		<string>-3.032526,-60.045605</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Eduardo Gomes-Manaus</string>
+		<key>NOM_CIDADE</key>
+		<string>Manaus</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>AM</string>
+		<key>VNOM_CURTO</key>
+		<string>MANAUS-AM</string>
+		<key>WEATHER</key>
+		<string>MANAUS,AM,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>MAB</string>
+		<key>COD_ICAO</key>
+		<string>SBMA</string>
+		<key>LOC</key>
+		<string>-5.371125,-49.136052</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Marabá</string>
+		<key>NOM_CIDADE</key>
+		<string>Marabá</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PA</string>
+		<key>VNOM_CURTO</key>
+		<string>MARABÁ-PA</string>
+		<key>WEATHER</key>
+		<string>MARABA,PA,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>MOC</string>
+		<key>COD_ICAO</key>
+		<string>SBMK</string>
+		<key>LOC</key>
+		<string>-16.705157,-43.820359</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Montes Claros</string>
+		<key>NOM_CIDADE</key>
+		<string>Montes Claros</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>MG</string>
+		<key>VNOM_CURTO</key>
+		<string>MONTES CLAROS-MG</string>
+		<key>WEATHER</key>
+		<string>MONTES CLAROS,MG,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>NAT</string>
+		<key>COD_ICAO</key>
+		<string>SBNT</string>
+		<key>LOC</key>
+		<string>-5.911352,-35.247048</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Augusto Severo</string>
+		<key>NOM_CIDADE</key>
+		<string>Natal</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>RN</string>
+		<key>VNOM_CURTO</key>
+		<string>NATAL-RN</string>
+		<key>WEATHER</key>
+		<string>NATAL,RN,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>NVT</string>
+		<key>COD_ICAO</key>
+		<string>SBNF</string>
+		<key>LOC</key>
+		<string>-26.879742,-48.650551</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Navegantes - Ministro Victor Konder</string>
+		<key>NOM_CIDADE</key>
+		<string>Navegantes</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>SC</string>
+		<key>VNOM_CURTO</key>
+		<string>NAVEGANTES-SC</string>
+		<key>WEATHER</key>
+		<string>NAVEGANTES,SC,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>PMW</string>
+		<key>COD_ICAO</key>
+		<string>SBPJ</string>
+		<key>LOC</key>
+		<string>-10.204617,-48.344779</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Palmas/Tocantins</string>
+		<key>NOM_CIDADE</key>
+		<string>Palmas</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>TO</string>
+		<key>VNOM_CURTO</key>
+		<string>PALMAS-TO</string>
+		<key>WEATHER</key>
+		<string>PALMAS,TO,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>PET</string>
+		<key>COD_ICAO</key>
+		<string>SBPK</string>
+		<key>LOC</key>
+		<string>-31.717983,-52.329576</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Federal</string>
+		<key>NOM_CIDADE</key>
+		<string>Pelotas</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>RS</string>
+		<key>VNOM_CURTO</key>
+		<string>PELOTAS-RS</string>
+		<key>WEATHER</key>
+		<string>PELOTAS,RS,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>PNZ</string>
+		<key>COD_ICAO</key>
+		<string>SBPL</string>
+		<key>LOC</key>
+		<string>-9.366227,-40.564077</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Petrolina-Senador Nilo Coelho</string>
+		<key>NOM_CIDADE</key>
+		<string>Petrolina</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PE</string>
+		<key>VNOM_CURTO</key>
+		<string>PETROLINA-PE</string>
+		<key>WEATHER</key>
+		<string>PETROLINA,PE,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>POA</string>
+		<key>COD_ICAO</key>
+		<string>SBPA</string>
+		<key>LOC</key>
+		<string>-29.993857,-51.170647</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Salgado Filho</string>
+		<key>NOM_CIDADE</key>
+		<string>Porto Alegre</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>RS</string>
+		<key>VNOM_CURTO</key>
+		<string>PORTO ALEGRE-RS</string>
+		<key>WEATHER</key>
+		<string>PORTO ALEGRE,RS,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>PVH</string>
+		<key>COD_ICAO</key>
+		<string>SBPV</string>
+		<key>LOC</key>
+		<string>-8.710044,-63.901935</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Porto Velho - RO</string>
+		<key>NOM_CIDADE</key>
+		<string>Porto Velho</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>RO</string>
+		<key>VNOM_CURTO</key>
+		<string>PORTO VELHO - RO</string>
+		<key>WEATHER</key>
+		<string>Aeroporto,PORTO VELHO,RO,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>REC</string>
+		<key>COD_ICAO</key>
+		<string>SBRF</string>
+		<key>LOC</key>
+		<string>-8.12652,-34.922662</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Do Recife/Guararapes - Gilberto Freyre</string>
+		<key>NOM_CIDADE</key>
+		<string>Recife</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PE</string>
+		<key>VNOM_CURTO</key>
+		<string>RECIFE-PE</string>
+		<key>WEATHER</key>
+		<string>RECIFE,PE,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>RBR</string>
+		<key>COD_ICAO</key>
+		<string>SBRB</string>
+		<key>LOC</key>
+		<string>-9.869105,-67.894499</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Rio Branco - Plácido de Castro</string>
+		<key>NOM_CIDADE</key>
+		<string>Rio Branco</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>AC</string>
+		<key>VNOM_CURTO</key>
+		<string>RIO BRANCO-AC</string>
+		<key>WEATHER</key>
+		<string>RIO BRANCO,AC,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>GIG</string>
+		<key>COD_ICAO</key>
+		<string>SBGL</string>
+		<key>LOC</key>
+		<string>-22.808782,-43.243732</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Do Rio de Janeiro/Galeão - Antonio Carlos Jobim</string>
+		<key>NOM_CIDADE</key>
+		<string>Rio Jan-Galeao</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>RJ</string>
+		<key>VNOM_CURTO</key>
+		<string>RIO DE JANEIRO - GALEAO-RJ</string>
+		<key>WEATHER</key>
+		<string>RIO DE JANEIRO,RJ,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>SDU</string>
+		<key>COD_ICAO</key>
+		<string>SBRJ</string>
+		<key>LOC</key>
+		<string>-22.906538,-43.165605</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Santos-Dumont</string>
+		<key>NOM_CIDADE</key>
+		<string>Rio Jan-S.Dumont</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>RJ</string>
+		<key>VNOM_CURTO</key>
+		<string>RIO DE JANEIRO - S.DUMONT-RJ</string>
+		<key>WEATHER</key>
+		<string>RIO DE JANEIRO,RJ,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>SSA</string>
+		<key>COD_ICAO</key>
+		<string>SBSV</string>
+		<key>LOC</key>
+		<string>-12.915707,-38.333402</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Salvador-Dep. Luís Eduardo Magalhaes</string>
+		<key>NOM_CIDADE</key>
+		<string>Salvador</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>BA</string>
+		<key>VNOM_CURTO</key>
+		<string>SALVADOR-BA</string>
+		<key>WEATHER</key>
+		<string>SALVADOR,BA,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>STM</string>
+		<key>COD_ICAO</key>
+		<string>SBSN</string>
+		<key>LOC</key>
+		<string>-2.4223,-54.791672</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Santarém</string>
+		<key>NOM_CIDADE</key>
+		<string>Santarém</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PA</string>
+		<key>VNOM_CURTO</key>
+		<string>SANTARÉM-PA</string>
+		<key>WEATHER</key>
+		<string>SANTAREM,PA,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>SJK</string>
+		<key>COD_ICAO</key>
+		<string>SBSJ</string>
+		<key>LOC</key>
+		<string>-23.225503,-45.861644</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de São José dos Campos - Professor Urbano Ernesto Stumpf</string>
+		<key>NOM_CIDADE</key>
+		<string>São Jose Dos Campos</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>SP</string>
+		<key>VNOM_CURTO</key>
+		<string>SÃO JOSE DOS CAMPOS-SP</string>
+		<key>WEATHER</key>
+		<string>SAO JOSE DOS CAMPOS,SP,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>SLZ</string>
+		<key>COD_ICAO</key>
+		<string>SBSL</string>
+		<key>LOC</key>
+		<string>-2.586551,-44.234219</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional Marechal Cunha Machado</string>
+		<key>NOM_CIDADE</key>
+		<string>São Luis</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>MA</string>
+		<key>VNOM_CURTO</key>
+		<string>SÃO LUIS-MA</string>
+		<key>WEATHER</key>
+		<string>SAO LUIS,MA,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>CGH</string>
+		<key>COD_ICAO</key>
+		<string>SBSP</string>
+		<key>LOC</key>
+		<string>-23.629132,-46.658893</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de Congonhas/São Paulo</string>
+		<key>NOM_CIDADE</key>
+		<string>S. Paulo-Congonhas</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>SP</string>
+		<key>VNOM_CURTO</key>
+		<string>SÃO PAULO - CONGONHAS-SP</string>
+		<key>WEATHER</key>
+		<string>SAO PAULO,SP,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>GRU</string>
+		<key>COD_ICAO</key>
+		<string>SBGR</string>
+		<key>LOC</key>
+		<string>-23.425902,-46.481642</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Internacional de São Paulo/Guarulhos - Governador André Franco Montoro</string>
+		<key>NOM_CIDADE</key>
+		<string>S. Paulo-Guarulhos</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>SP</string>
+		<key>VNOM_CURTO</key>
+		<string>SÃO PAULO - GUARULHOS-SP</string>
+		<key>WEATHER</key>
+		<string>SAO PAULO,SP,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>THE</string>
+		<key>COD_ICAO</key>
+		<string>SBTE</string>
+		<key>LOC</key>
+		<string>-5.062966,-42.820662</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Teresina/Senador Petrônio Portella</string>
+		<key>NOM_CIDADE</key>
+		<string>Teresina</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>PI</string>
+		<key>VNOM_CURTO</key>
+		<string>TERESINA-PI</string>
+		<key>WEATHER</key>
+		<string>TERESINA,PI,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>UBA</string>
+		<key>COD_ICAO</key>
+		<string>SBUR</string>
+		<key>LOC</key>
+		<string>-19.766133,-47.963605</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Uberaba</string>
+		<key>NOM_CIDADE</key>
+		<string>Uberaba</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>MG</string>
+		<key>VNOM_CURTO</key>
+		<string>UBERABA-MG</string>
+		<key>WEATHER</key>
+		<string>UBERABA,MG,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>UDI</string>
+		<key>COD_ICAO</key>
+		<string>SBUL</string>
+		<key>LOC</key>
+		<string>-18.888888,-48.229637</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Uberlândia-Ten. Cel. Av. César Bombonato</string>
+		<key>NOM_CIDADE</key>
+		<string>Uberlândia</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>MG</string>
+		<key>VNOM_CURTO</key>
+		<string>UBERLÂNDIA-MG</string>
+		<key>WEATHER</key>
+		<string>UBERLANDIA,MG,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>URG</string>
+		<key>COD_ICAO</key>
+		<string>SBUG</string>
+		<key>LOC</key>
+		<string>-29.781671,-57.03828</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto Ruben Berta</string>
+		<key>NOM_CIDADE</key>
+		<string>Uruguaiana</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>RS</string>
+		<key>VNOM_CURTO</key>
+		<string>URUGUAIANA-RS</string>
+		<key>WEATHER</key>
+		<string>URUGUAIANA,RS,Brazil</string>
+	</dict>
+	<dict>
+		<key>COD_IATA</key>
+		<string>VIX</string>
+		<key>COD_ICAO</key>
+		<string>SBVT</string>
+		<key>LOC</key>
+		<string>-20.259882,-40.289054</string>
+		<key>NOM_AEROPORTO</key>
+		<string>Aeroporto de Vitória</string>
+		<key>NOM_CIDADE</key>
+		<string>Vitória</string>
+		<key>POSSUI_SIV</key>
+		<string>S</string>
+		<key>SIG_UF</key>
+		<string>ES</string>
+		<key>VNOM_CURTO</key>
+		<string>VITÓRIA-ES</string>
+		<key>WEATHER</key>
+		<string>VITORIA,ES,Brazil</string>
+	</dict>
+</array>
+</plist>

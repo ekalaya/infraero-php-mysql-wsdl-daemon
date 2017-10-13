@@ -1,0 +1,224 @@
+@CHARSET "UTF-8";
+
+* {
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+
+html, body {
+	font-family: 'Arial';
+	font-size: 100%;
+	background: #000;
+}
+
+#form {
+	color: #fff;
+	position: absolute;
+	display: block;
+	right: 250px;
+	top: 25px;
+}
+
+#footer {
+	background: #0F2CA6;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+	/*
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	*/
+}
+
+#header {
+	background: url(../img/header_bg.png) left top no-repeat #0f2ca6;
+	overflow: hidden;
+}
+
+#header .infraero_logo {
+	display: block;
+	float: left;
+	background: url(../img/infraero_logo.png) no-repeat;
+	width: 370px;
+	height: 66px;
+	text-indent: -9999px;
+	overflow: hidden;
+	margin-top: 17px;
+	margin-left: 15px;
+}
+
+#header .clock {
+	float: right;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+#header .time {
+	font-size: 290%;
+	color: #FFEE00;
+}
+
+#header .page {
+	font-size: 120%;
+	color: #FFEE00;
+	text-align: right;
+}
+
+#header .way {
+	float: left;
+	font-size: 300%;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	font-style: italic;
+	line-height: 100px;
+	text-shadow: 3px 3px 0px #000;
+	margin-left: -450px;
+	left: 50%;
+	position: relative;
+	display: block;
+}
+
+.hide {
+	display: none !important;
+}
+
+/* flight statuses */
+#flight_table td.delayed {
+	color: #F2942E;
+}
+
+#flight_table td.checkin {
+	color: #108341;
+}
+
+#flight_table td.canceled {
+	color: #B60F1D;
+}
+
+#flight_table {
+	width: 100%;
+	cursor: default;
+	overflow: hidden;
+}
+
+#flight_table,
+#flight_table tr,
+#flight_table td,
+#flight_table th {
+	border: 2px solid black;
+	font-weight: bold;
+}
+
+#flight_table td,
+#flight_table th {
+	padding: 0px 10px;
+	white-space: nowrap;
+}
+
+#flight_table th {
+	background: #0f2ca6;
+	color: #fff;
+	font-size: 150%;
+}
+
+#flight_table td {
+	background: url(../img/item_grad2.png) 0px 40px repeat-x #28282A;
+	color: #fff;
+	font-size: 230%;
+	text-shadow: 2px 2px 2px rgba(0,0,0,0.9);
+	height: 66px !important;
+}
+
+#flight_table td img {
+	vertical-align: middle;
+}
+
+#flight_table td:nth-child(1) {
+	background: #fff !important;
+}
+
+/* zebra */
+#flight_table tr:nth-child(even) td {
+	background-color: #5C565A;
+}
+
+#flight_table td:nth-child(2) {
+	color: #FFEE00
+}
+
+#flight_table td:nth-child(2),
+#flight_table td:nth-child(3),
+#flight_table td:nth-child(4) {
+	width: 7%;
+}
+
+#flight_table td:nth-child(6),
+#flight_table td:nth-child(7) {
+	width: 5%;
+}
+
+#flight_table td:nth-child(5),
+#flight_table td:nth-child(8) {
+	width: 25%;
+}
+
+#flight_table td:nth-child(2),
+#flight_table td:nth-child(3),
+#flight_table td:nth-child(4),
+#flight_table td:nth-child(6),
+#flight_table td:nth-child(7) {
+	text-align: center;
+}
+
+#flight_table td:nth-child(5),
+#flight_table td:nth-child(8) {
+	text-align: left;
+}
+
+#flight_table th {
+	text-align: center;
+}
+
+#flight_table th:first-child {
+    width: 1%;
+}
+
+#flight_table tbody .flip_in  {
+	-webkit-transform: rotatex(180deg);
+	-webkit-perspective: 800;
+	-webkit-transition: 0.3s;
+	-webkit-transform-style: preserve-3d;
+}
+
+#flight_table tbody .flip_out  {
+	-webkit-transform: rotatex(0deg);
+	-webkit-perspective: 800;
+	-webkit-transition: 0.3s;
+	-webkit-transform-style: preserve-3d;
+}
+
+.shine:before {
+    content:"";
+    position:absolute;
+    width: 300px;
+    height: 500px;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(255, 255, 255, .15)), to(rgba(0, 0, 0, .25))), -webkit-gradient(linear, left top, right bottom, color-stop(0, rgba(255, 255, 255, 0)), color-stop(0.5, rgba(255, 255, 255, .1)), color-stop(0.501, rgba(255, 255, 255, 0)), color-stop(1, rgba(255, 255, 255, 0)));
+    background: -moz-linear-gradient(top, rgba(255, 255, 255, .15), rgba(0, 0, 0, .25)), -moz-linear-gradient(left top, rgba(255, 255, 255, 0), rgba(255, 255, 255, .1) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0));
+    background: linear-gradient(top, rgba(255, 255, 255, .15), rgba(0, 0, 0, .25)), linear-gradient(left top, rgba(255, 255, 255, 0), rgba(255, 255, 255, .1) 50%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0));
+}
+
+#loader {
+	background: url(../img/loader.gif) no-repeat center center rgba(0,0,0,0.8);
+	display: block;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	position: fixed;
+	z-index: 9999;
+}
